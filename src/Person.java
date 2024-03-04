@@ -1,5 +1,4 @@
-package src;
-// Clase Persona: Identific una persona en el expediente
+// Clase Persona: Identifica una persona en el expediente
 public class Person {
     
     private String name;

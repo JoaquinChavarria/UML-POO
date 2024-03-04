@@ -1,4 +1,3 @@
-package src;
 // Clase Crimen: Identifica un crimen en el expediente
 public class Crime {
     
